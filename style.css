@@ -1,0 +1,28 @@
+.mainnav {
+    margin-bottom: 20px;
+}
+
+.card{
+    margin: 5px;
+    text-align: center;
+}
+
+.maindata{
+    max-height: 300px;
+}
+
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 410px;
+    overflow: auto;
+
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.actionchart{
+    height: 200px;
+}
